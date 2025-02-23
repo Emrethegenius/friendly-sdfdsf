@@ -2,7 +2,7 @@
 // VERSION AND CACHE RESET
 // ============================================
 const QUESTIONS_VERSION = 'v3'; // Bump this when you change the quiz data
-const QUIZ_START_DATE = new Date("2025-02-17");
+const QUIZ_START_DATE = new Date("2025-02-18");
 
 // Immediately check localStorage; clear all cached entries if the day or version has changed.
 (function() {
